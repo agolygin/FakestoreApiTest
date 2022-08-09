@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FakestoreApiTest</string>
+    <string name="title_main">Main</string>
+    <string name="title_search">Search</string>
+    <string name="title_favourites">Favourites</string>
+    <string name="search_edit_text_hint">Search..</string>
+    <string name="text_price">$%1$.2f</string>
+</resources>
